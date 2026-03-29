@@ -65,14 +65,5 @@
   npm start
   </pre>
   <p>The server will run on <code>http://localhost:5000</code>.</p>
-
-  <h2>Deployment</h2>
-  <p>The project has been deployed using Netlify for the client-side and another hosting platform (e.g., Heroku) for the server-side. To deploy the client on Netlify, you can follow the steps mentioned in the <a href="https://docs.netlify.com/site-deploys/create-deploys/#drag-and-drop">Netlify documentation</a>. Similarly, to deploy the server on another hosting platform, you need to set up the appropriate hosting service (e.g., Heroku, AWS, etc.) and configure the deployment process according to the platform's guidelines.</p>
-
-  <h2>Contributing</h2>
-  <p>If you would like to contribute to this project, feel free to fork the repository and create a pull request. We welcome contributions and appreciate your help in making this project better.</p>
-
-  <h2>License</h2>
-  <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 </body>
 </html>
